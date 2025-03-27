@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "LALA"
-echo "LALALA"
+ecko "LALALA"
